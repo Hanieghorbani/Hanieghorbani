@@ -15,4 +15,6 @@
 ![Mui](https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap&logoColor=white&style=for-the-badge)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hanieghorbani&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Hanieghorbani&label=Profile%20views&color=0e75b6&style=flat" </p>
+
