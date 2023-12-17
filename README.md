@@ -12,8 +12,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 
 ![Mui](https://img.shields.io/badge/MUI-007fff?logo=MUI&logoColor=white&style=for-the-badge)
-![Mui](https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap&logoColor=white&style=for-the-badge)
-
+![bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ---
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Hanieghorbani&label=Profile%20views&color=0e75b6&style=flat" </p>
